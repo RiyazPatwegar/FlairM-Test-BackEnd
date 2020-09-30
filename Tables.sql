@@ -1,5 +1,3 @@
-/* Database Name :  flairm_test; */
-
 CREATE TABLE `tbl_contact` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `orgn_id` int(11) NOT NULL,
